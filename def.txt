@@ -1,1 +1,2 @@
 Credential Manager is a must in our desktop.
+Credential Manager is a must in our laptop.
